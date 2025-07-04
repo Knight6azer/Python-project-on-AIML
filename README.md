@@ -72,7 +72,7 @@ This project analyzes and predicts acid rain behavior (specifically **pH levels*
 ## 📌 File Structure
 
 ```bash
-├── Project.ipynb                # Colab or Jupyter notebook with full code
-├── acid_rain_pan_india_cleaned.csv   # Cleaned and enriched dataset
-├── project.py                   # Script version of the notebook
-├── README.md                    # This file
+├── Project.ipynb               
+├── acid_rain_pan_india_cleaned.csv   
+├── project.py               
+├── README.md
